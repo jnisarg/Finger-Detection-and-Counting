@@ -1,2 +1,2 @@
 # Finger-Detection-and-Counting
-Detects fingers in hand and displays the count of the same.
+Detects hand fingers and displays the count of the same.
